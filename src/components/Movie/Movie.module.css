@@ -1,0 +1,27 @@
+.card img {
+  width: 260px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card {
+  width: 260px;
+  border: 1px solid white;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.card p {
+  text-align: center;
+  font-size: medium;
+  font-weight: 600;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.title {
+  color: black;
+}

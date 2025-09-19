@@ -1,0 +1,9 @@
+.card {
+    width: 200px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}

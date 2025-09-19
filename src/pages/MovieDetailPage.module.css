@@ -1,0 +1,9 @@
+.movieHeader {
+    margin: 24px;
+    display: flex;
+    gap: 24px;
+}
+
+div {
+    color: white;
+}
